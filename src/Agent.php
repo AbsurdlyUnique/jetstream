@@ -25,6 +25,7 @@ class Agent extends MobileDetect
         'OpenBSD' => 'OpenBSD',
         'Linux' => 'Linux',
         'ChromeOS' => 'CrOS',
+        'iphone' => 'iPhone|iPad|iPod|ios',
     ];
 
     /**
@@ -46,6 +47,7 @@ class Agent extends MobileDetect
         'Netscape' => 'Netscape',
         'Mozilla' => 'Mozilla',
         'WeChat' => 'MicroMessenger',
+        'DashSoft App' => 'DashSoft',
     ];
 
     /**
